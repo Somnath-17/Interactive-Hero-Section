@@ -7,7 +7,7 @@ It demonstrates how branding statements and interactive visuals can create an en
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🎨 Responsive Hero Section with bold typography.
 
